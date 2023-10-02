@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Custom View</string>
+    <string name="title">Selected color: %s(%s)</string>
+    <string name="selectedColor">Color is selecting...</string>
+    <string name="click_circle">Click on circle</string>
 </resources>

@@ -53,6 +53,8 @@ class RainbowCircleView(context: Context, attrs: AttributeSet) : View(context, a
 
     private fun getRandomRotation(): Float = (200..720).random().toFloat()
 
+    fun getColor() = SelectedColor.values().random()
+
     companion object {
         private const val ORANGE = "#FFA500"
         private const val PURPLE = "#800080"
