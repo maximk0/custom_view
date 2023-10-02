@@ -1,6 +1,9 @@
 # custom_view
 This repository for training custom view
 
+A drum consisting of rainbow colors. Each color represents either an image or text. When the drum is tapped, it starts spinning and stops randomly.
+(RED - text, ORANGE - image, YELLOW - text, GREEN - image, LIGHTBLUE - text, BLUE - image, PURPLE - text)
+
 ## Built With
 1. Kotlin
 2. XML
